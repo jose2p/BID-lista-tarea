@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BID-lista-tareas/build/static/css/main.0043978d.css",
+    "main.js": "/BID-lista-tareas/build/static/js/main.834495a7.js",
+    "index.html": "/BID-lista-tareas/build/index.html",
+    "main.0043978d.css.map": "/BID-lista-tareas/build/static/css/main.0043978d.css.map",
+    "main.834495a7.js.map": "/BID-lista-tareas/build/static/js/main.834495a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0043978d.css",
+    "static/js/main.834495a7.js"
+  ]
+}
