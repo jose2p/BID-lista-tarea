@@ -1,6 +1,6 @@
 # Lista de actividades con React
 Programa para agregar una lista de tareas.
-
+Permite hacer un crud de tareas.
 ## Falta agregar.
 
 Funcionalidades que podríamos agregar. 
